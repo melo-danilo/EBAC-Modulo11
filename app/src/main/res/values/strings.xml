@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exerciciomodulo11</string>
+    <string name="jogador_1">Jogador 1</string>
+    <string name="resultado">Resultado</string>
+    <string name="reiniciar">Reiniciar jogo</string>
+    <string name="selecionar_jogada">Selecionar jogada</string>
+    <string name="dropdown_para_escolher_a_jogada">Dropdown para escolher a jogada</string>
+    <string name="o_jogador_xxx_ganhou">O jogador xxx ganhou</string>
+</resources>
